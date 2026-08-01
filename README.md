@@ -1,10 +1,14 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21744495.svg)](https://doi.org/10.5281/zenodo.21744495)
+
 # Sequential hybrid framework for medical feature selection using population transfer
 
 Reference implementation for the paper:
 
 > C. Lazrak, A. Bouayad, A. Talha. *A sequential hybrid framework for medical
 > feature selection using population transfer.* Discover Artificial
-> Intelligence, [year]. DOI: [to be added on acceptance]
+> Intelligence. Under revision.
+
+This release is archived at [10.5281/zenodo.21744495](https://doi.org/10.5281/zenodo.21744495).
 
 The framework couples an exploration-oriented metaheuristic (PSO, HHO or BSO)
 with the Binary Al-Biruni Earth Radius algorithm (bABER) through a direct
@@ -37,8 +41,14 @@ experiments/
   run_experiments.py       driver for the 630 optimization runs
 data/
   raw/                     datasets (not redistributed, see data/README.md)
-results/                   raw per-run results and figures
+results/
+  metrics/                 raw per-run results (csv, json, pkl)
+  plots/                   figures of the paper
+  statistics/              Friedman, Wilcoxon and effect-size outputs
+  comparison_table.csv     aggregated means per algorithm and dataset
+  rankings.csv             mean ranks per algorithm
 ```
+
 
 ## Requirements
 
