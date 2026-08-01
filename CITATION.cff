@@ -12,7 +12,10 @@ authors:
   - family-names: Talha
     given-names: Adnane
     affiliation: "LIASSE, Sidi Mohamed Ben Abdellah University, Fez, Morocco"
+version: "1.0.0"
+date-released: "2026-08-01"
 license: MIT
+doi: "10.5281/zenodo.21744495"
 repository-code: "https://github.com/chaimae-lazrak/sequential-hybrid-feature-selection"
 preferred-citation:
   type: article
