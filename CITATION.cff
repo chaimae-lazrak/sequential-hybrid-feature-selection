@@ -13,7 +13,7 @@ authors:
     given-names: Adnane
     affiliation: "LIASSE, Sidi Mohamed Ben Abdellah University, Fez, Morocco"
 license: MIT
-repository-code: "https://github.com/<user>/<repo>"
+repository-code: "https://github.com/chaimae-lazrak/sequential-hybrid-feature-selection"
 preferred-citation:
   type: article
   title: "A sequential hybrid framework for medical feature selection using population transfer"
