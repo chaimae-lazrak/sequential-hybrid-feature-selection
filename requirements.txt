@@ -1,0 +1,13 @@
+# Environment used for the experiments reported in the paper.
+# Python 3.11.14
+#
+# scikit-learn is pinned because it determines the behaviour of the
+# Random Forest classifier and therefore the reported results.
+# The remaining packages are constrained loosely; the versions listed
+# in comments are those present in the authors' environment.
+
+scikit-learn==1.8.0
+numpy>=1.26          # 2.4.2
+pandas>=2.0          # 3.0.0
+scipy>=1.11          # 1.16.3
+matplotlib>=3.8      # 3.10.8

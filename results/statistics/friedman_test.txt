@@ -1,0 +1,7 @@
+FRIEDMAN TEST RESULTS
+==================================================
+
+Chi-square statistic: 5.1544
+p-value: 0.524173
+Degrees of freedom: 6
+Significant (α=0.05): False

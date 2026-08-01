@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "Sequential hybrid framework for medical feature selection using population transfer"
+authors:
+  - family-names: Lazrak
+    given-names: Chaimae
+    affiliation: "LIASSE, Sidi Mohamed Ben Abdellah University, Fez, Morocco"
+    orcid: "https://orcid.org/0009-0003-2178-1926"
+  - family-names: Bouayad
+    given-names: Anas
+    affiliation: "LIASSE, Sidi Mohamed Ben Abdellah University, Fez, Morocco"
+  - family-names: Talha
+    given-names: Adnane
+    affiliation: "LIASSE, Sidi Mohamed Ben Abdellah University, Fez, Morocco"
+license: MIT
+repository-code: "https://github.com/<user>/<repo>"
+preferred-citation:
+  type: article
+  title: "A sequential hybrid framework for medical feature selection using population transfer"
+  authors:
+    - family-names: Lazrak
+      given-names: Chaimae
+    - family-names: Bouayad
+      given-names: Anas
+    - family-names: Talha
+      given-names: Adnane
+  journal: "Discover Artificial Intelligence"
+  notes: "Under revision"

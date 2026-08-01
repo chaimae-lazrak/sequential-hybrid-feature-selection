@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.spyproject/
+.vscode/
+.idea/
+.DS_Store
+venv/
+.venv/
+env/
+
+# raw datasets are not redistributed, see data/README.md
+data/raw/*
+!data/raw/.gitkeep
+experiments/results/
